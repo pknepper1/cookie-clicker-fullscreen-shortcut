@@ -1,9 +1,12 @@
 # cookie-clicker-fullscreen-shortcut
 Mod for the steam version of cookie clicker (version 2.052) which adds the ability to toggle fullscreen by pressing F11. Does NOT disable steam achievements.
 
-This mod is currently being reviewed before being uploaded to the Steam workshop. A link will be added later.
+This mod is available on the steam workshop at the link below. Simply subscribe and the mod will automatically be downloaded and applied.
 
-This mod can be downloaded and applied directly to the steam version of Cookie Clicker. To do so, you only need to download the fullscreenShortcut directory and its contents and save it to the
+https://steamcommunity.com/sharedfiles/filedetails/?id=3044568559
+
+
+This mod can also be downloaded and applied directly to the steam version of Cookie Clicker. To do so, you only need to download the fullscreenShortcut directory and its contents and save it to the
 
 app/mods/local/ 
 

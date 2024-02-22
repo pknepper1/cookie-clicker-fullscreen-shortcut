@@ -9,7 +9,9 @@ Game.registerMod("fullscreen",{
   		});
 	},
 	save:function(){
+		return "" + Game.prefs.fullscreen;
 	},
-	load:function(){
+	load:function(str){
+		Game.prefs.fullscreen = parseInt(str);
 	}
 });

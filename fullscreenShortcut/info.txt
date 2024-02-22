@@ -1,12 +1,13 @@
 {
-	"Name": "FullScreen Shortcut",
-	"ID": "fullscreen",
-	"Author": "pknepps",
-	"Description": "Adds the ability to quickly toggle full screen by pressing f11 instead of going through the options. Does [b]NOT[/b] disable Steam achievements.",
-	"ModVersion": 1.1,
-	"GameVersion": 2.052,
-	"Date": "01/010/2023",
-	"Dependencies": [],
-	"Disabled": 0,
-	"AllowSteamAchievs": 1
+ "Name": "FullScreen Shortcut",
+ "ID": "fullscreen",
+ "Author": "pknepps",
+ "Description": "Adds the ability to quickly toggle full screen by pressing f11 instead of going through the options.",
+ "ModVersion": 1.2,
+ "GameVersion": 2.052,
+ "Date": "21/02/2024",
+ "Dependencies": [],
+ "Disabled": 0,
+ "AllowSteamAchievs": 1,
+ "Workshop": "3044568559"
 }

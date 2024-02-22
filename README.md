@@ -13,3 +13,6 @@ app/mods/local/
 directory in the location of your copy of Cookie Clicker, this can normally be found in
 
 Steam/steamapps/common/.
+
+### 1.2 changes
+Your most recent preference (fullscreen/windowed) will now save when the game does, and load into fullscreen if your game was in fullscreen before last save.
